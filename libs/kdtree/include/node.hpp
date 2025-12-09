@@ -13,7 +13,7 @@
 namespace sortedkdtree{
 
     //2D Tree
-    using Point =  std::array<float,2>;
+    using Point =  std::array<double,2>;
     using PointVec = std::vector<Point>;
 
        
